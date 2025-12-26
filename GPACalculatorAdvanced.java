@@ -1,4 +1,4 @@
-public class GPACalculator_Advanced {
+public class GPACalculatorAdvanced {
     public static void main(String[] args) {
        
         // 1. กำหนดข้อมูลรายวิชา (Input)
